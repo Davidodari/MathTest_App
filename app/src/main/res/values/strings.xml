@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Math Test</string>
+    <string name="generate_question_label">Generate Question</string>
+    <string name="submit">Submit</string>
+    <string name="hint_answer">Answer</string>
+    <string name="equation">=</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="incorrect_answer">Correct Answer is </string>
 </resources>
